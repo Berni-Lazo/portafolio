@@ -1,0 +1,35 @@
+body {
+  font-family: 'Mali', cursive;
+  margin-top: 70px;
+}
+
+.logo {
+  font-family: 'Sacramento', cursive;
+}
+
+.navbar, footer {
+  background-color: #05ffb0;
+}
+
+.hero-section {
+  background-image: url(../img/bg-hero.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+
+h1 {
+  text-shadow: 0.125em 0.25em 0.125em #000000;
+}
+
+.titulo {
+  border-bottom: 2px solid #05ffb0;
+}
+
+.card {
+  width: 30%;
+}
+
+.card img {
+  border-bottom: 1px solid #6c757d40;
+}
