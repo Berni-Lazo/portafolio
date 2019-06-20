@@ -33,3 +33,19 @@ h1 {
 .card img {
   border-bottom: 1px solid #6c757d40;
 }
+
+footer h2 {#AED6F1;
+  font-size: 3em;
+}
+footer h2, .rrss {
+  vertical-align: middle;
+}
+
+footer a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+#trabajos {
+  background-color: #BFC9CA;
+}
